@@ -2,10 +2,10 @@
 
 // Kommentar entfernen und eigene Daten eintragen
                                                                                    
-$hostname = "rdbms.strato.de";
-$database = "DB3723229";
-$username = "U3723229";
-$password = "p/ZKn3Y=$2}7zmoj!G";
+$hostname = "";
+$database = "";
+$username = "";
+$password = "";
 
 $title="Wing Challenger";
 $defaultTask="home";
